@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+.holder{
+	width: 100vw;
+	height: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#id1{
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	background-color: lightblue; 
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
