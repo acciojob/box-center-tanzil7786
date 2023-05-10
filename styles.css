@@ -1,21 +1,7 @@
-.holder{
-	width: 100vw;
-	height: 100vw;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
+/*  your css code here. If applicable */
 .box{
-	width: 150px;
-	height: 150px;
-	border: 2px solid black;
-	background-color: lightblue; 
-	color:purple;
-	display: flex;
-    justify-content: center;
-    align-items: center;
+	text-align:center;
+	background-color:lightblue;
+	position:center;
+	border:2px solid black;
 }
-
-
-
-
